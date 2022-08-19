@@ -1,6 +1,6 @@
 ### Nice To Meet You, I'm Felicia!
 
-#### Computer Science Graduate from Monash University Malaysia <br> and a Frontend Development Enthusiast👩‍💻
+#### 🎓Computer Science Graduate from Monash University Malaysia <br> 👩‍💻and a Frontend Development Enthusiast
 
 
 
