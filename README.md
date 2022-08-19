@@ -1,4 +1,10 @@
-### Hi there 👋
+### Nice To Meet You, I'm Felicia!
+
+#### Computer Science Graduate from Monash University Malaysia
+#### and a Frontend Development Enthusiast👩‍💻
+
+
+
 
 <!--
 **feliciawnn/feliciawnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
