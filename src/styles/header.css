@@ -1,0 +1,72 @@
+header{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+}
+
+.logo-wrapper{
+    margin-left: 48px;
+    width: calc(20vw - 48px);
+}
+
+.logoImg{
+    height: 48px;
+    width: 48px;
+}
+
+.navlink ul{
+    width: 60vw;
+    display: flex;
+    justify-content: center;
+}
+
+.toggleLang, .downloadIcon{
+    width: 10vw;
+}
+
+.toggle-btn{
+    background-color: #624063;
+    color: #fff;
+    padding: 12px;
+    width: fit-content;
+    border-radius: 16px;
+}
+
+.navlink, .navlink ul li{
+    display: inline-block;
+}
+
+.navlink-elem{
+    cursor: pointer;
+}
+
+.navlink-elem:hover{
+    color:#B38CB4;
+}
+
+.navlink ul li{
+    margin: 0 24px;
+}
+
+.active{
+    border-bottom: rgba(179, 140, 180, 1) solid;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.header-download-icon{
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.header-download-icon:hover{
+    color: #B38CB4;
+}
+
+.home-nav{
+    position: absolute;
+    bottom: 20vh;
+    display: flex;
+    justify-content: center;
+    width:100vw;
+}
